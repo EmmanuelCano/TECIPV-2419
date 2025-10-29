@@ -1,5 +1,5 @@
 
-TECIPV-2419-Deploying and Securing Networks for the IPv6 Enterprises
+TECIPV-2419:Deploying and Securing Networks for the IPv6 Enterprises
 
 
 This repository includes the supplemental material for the Cisco Live session TECIPV-2419 (delivered in Cisco Live Amsterdam 2026). In this repository you can find links for additional references about IPv6
